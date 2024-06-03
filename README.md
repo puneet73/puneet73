@@ -4,7 +4,7 @@
 <img align = "right" alt="coding" width = "400" src = "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puneet73&label=Profile%20views&color=0e75b6&style=flat" alt="puneet73" /> </p>
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/19xTbzId7PnLm1R7wT2ZK1TnaKXxRbrwS/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1_xsgvdsIAki8RUTgaObLxUhOVaWC6E-t/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
