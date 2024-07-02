@@ -4,7 +4,7 @@
 <img align = "right" alt="coding" width = "400" src = "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puneet73&label=Profile%20views&color=0e75b6&style=flat" alt="puneet73" /> </p>
 
-- 📄 Know about my experiences [Resume](https://www.linkedin.com/safety/go?url=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F145mXknxbz3Yi3qCTFPWZSueEhc-l3iNv%2Fview%3Fusp%3Dsharing&trk=flagship-messaging-web&messageThreadUrn=urn%3Ali%3AmessagingThread%3A2-Yzc5NWZiMWMtNmE0OS00YTczLWI3NTQtZGVkNjVhMmJmNDk3XzAxMA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_messaging_conversation_detail%3BYS2JgOSqTSCiHfh4liX%2Feg%3D%3D)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/145mXknxbz3Yi3qCTFPWZSueEhc-l3iNv/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
