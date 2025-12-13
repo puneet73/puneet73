@@ -1,23 +1,57 @@
-<h1 align="center">Hi 👋, I'm Puneet</h1>
-<h3 align="center">A passionate Computer Science Student , Competitive Programmer</h3>
+<div align="center">
+  <h1>Hi 👋, I'm Puneet</h1>
+  <h3>A Passionate Computer Science Student & Competitive Programmer</h3>
+  <p>
+    <a href="https://linkedin.com/in/puneetsheokand"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a>
+    <a href="https://drive.google.com/file/d/145mXknxbz3Yi3qCTFPWZSueEhc-l3iNv/view?usp=sharing"><img src="https://img.shields.io/badge/-Resume-black?style=flat&logo=google-drive&logoColor=white"></a>
+  </p>
+</div>
 
-<img align = "right" alt="coding" width = "400" src = "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=puneet73&label=Profile%20views&color=0e75b6&style=flat" alt="puneet73" /> </p>
+<br />
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/145mXknxbz3Yi3qCTFPWZSueEhc-l3iNv/view?usp=sharing)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h2>🧠 About Me</h2>
+      <ul>
+        <li>🎓 <strong>CS Student</strong> focusing on DSA and System Design.</li>
+        <li>💻 <strong>Problem Solving:</strong> I actively solve problems on LeetCode and CodeForces.</li>
+        <li>☁️ <strong>Tech Interests:</strong> Exploring Cloud Native technologies (K8s, Docker) and Machine Learning.</li>
+        <li>🤝 <strong>Collaboration:</strong> Open to working on MERN stack or ML projects.</li>
+      </ul>
+      <h3>🏆 Competitive Handles</h3>
+      <p>
+        <a href="https://www.codechef.com/users/puneet_73"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" /></a>
+        <a href="https://codeforces.com/profile/puneet_73"><img src="https://img.shields.io/badge/CodeForces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" /></a>
+        <a href="https://www.leetcode.com/puneet7373"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h2>🛠 Tech Stack</h2>
+      <p><strong>Languages</strong></p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js" />
+      </p>
+      <p><strong>DevOps & Cloud</strong></p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=aws,docker,k8s,jenkins,linux,git" />
+      </p>
+      <p><strong>Data & ML</strong></p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,pandas" />
+      </p>
+      <p><strong>Web & DB</strong></p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=react,html,css,mongo,mysql,rabbitmq" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/puneetsheokand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="puneetsheokand" height="30" width="40" /></a>
-<a href="https://instagram.com/puneetsheokand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="puneetsheokand" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/puneet_73" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="puneet_73" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/puneet_73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="puneet_73" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/puneet7373" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="puneet7373" height="30" width="40" /></a>
-</p>
+<br />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=puneet73&show_icons=true&locale=en&layout=compact" alt="puneet73" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=puneet73&" alt="puneet73" /></p>
+<h2 align="center">⚡ GitHub Stats</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=puneet73&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=puneet73&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="langs" />
+</div>
